@@ -2,7 +2,7 @@
 
 <h1 align="center">Cuadradito</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/Cuadradito/releases/download/v2.2/Cuadradito-2.2.apk">⬇ Download APK</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/Cuadradito/releases/download/v2.3/Cuadradito-2.3.apk">⬇ Download APK</a></h2>
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
@@ -26,4 +26,4 @@ Over Bluetooth, no internet and no accounts. App in Spanish.<br>
 
 ---
 
-<sub>Free, closed source. Do not redistribute: share this link. No warranty. <a href="LICENSE.en">License</a> · <a href="PRIVACY.md">Privacy</a> · <a href="https://www.virustotal.com/gui/file/d109493b39c43067ca1a2232f3b022c4bf287efb25ac62463aa266e7f0bb3145">VirusTotal</a></sub>
+<sub>Free, closed source. Do not redistribute: share this link. No warranty. <a href="LICENSE.en">License</a> · <a href="PRIVACY.md">Privacy</a> · <a href="https://www.virustotal.com/gui/file/86475f4c03b51b21be5a3f3cc447a012cef1d959dd3878747a6192606e268492">VirusTotal</a></sub>
